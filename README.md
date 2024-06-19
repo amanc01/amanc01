@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I'm a Full Stack Developer.<br>🔭 I’m currently learning about Next.js.<br>👯 I love making Web Applications in MERN stack.<br>👨‍🎓 I'm currently in my final year of College.<br>💬 Ask me about books, best resources for learning Computer Science.<br>📫 How to reach me: LinkedIn.<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I love football as much as i love to code.
+👨‍💻 I'm a Full Stack Developer.<br>🔭 I’m currently learning about Next.js.<br>👯 I love making Web Applications in MERN stack.<br>👨‍🎓 I'm currently in my final year of College.📫 How to reach me: LinkedIn.<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I love football as much as i love to code.
 
 
 ## 🌐 Socials:
