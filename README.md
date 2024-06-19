@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I'm a Full Stack Developer.<br>🔭 I’m currently learning about Next.js.<br>👯 I love making Web Applications in MERN stack.<br>👨‍🎓 I'm currently in my final year of College.📫 How to reach me: LinkedIn.<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I love football as much as i love to code.
+👨‍💻 I'm a Full Stack Developer.<br>🔭 I’m currently learning about Next.js.<br>👯 I love making Web Applications in MERN stack.<br>👨‍🎓 I'm currently in my final year of College.📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aman-chaurasia-932265234/) .<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I love football as much as i love to code.
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=amanc01&theme=onedark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amanc01&theme=onedark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amanc01&theme=onedark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=amanc01&limit=5&theme=dark&combine_all_yearly_contributions=true)
